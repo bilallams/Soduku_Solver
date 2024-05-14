@@ -15,11 +15,11 @@ To run the Sudoku solver, execute the `main.py` file:
 ```bash
 python main.py
 
-Requirements
+##Requirements
 Python 3.x
 Tkinter (usually comes pre-installed with Python)
 
-Features
+##Features
 Interactive Sudoku board where users can input their own puzzles.
 Solve button to solve the Sudoku puzzle using the backtracking algorithm.
 Restart button to reset the board to the original state.
